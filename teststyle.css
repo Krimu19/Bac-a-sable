@@ -1,0 +1,6 @@
+.row {
+    display: flex;
+    justify-content: space-between; /* un bouton à gauche, un à droite */
+    align-items: center;
+    margin-bottom: 10px; /* espace entre lignes */
+}

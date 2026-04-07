@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a{
+    border: 1px black solid;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 1em;
+    color: black;
+}
+.btn-ici{
+    margin-left: 20px;
+}
+.btn-visiter {
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    text-decoration: none;
+    border: 2px dashed rgb(0, 0, 0); 
+    display: inline-block;
+}
+
+
+
+/* Bouton vert (#61FF7B) */
+
+.btn-vert {
+    background-color: #61FF7B;
+    color: black;
+    border: #61FF7B;
+    border-radius: 40px;
+}
+
+/*  Bouton vert très arrondi */
+
+.btn-vert-rond {
+    background-color: #61FF7B;
+    color: black;
+    border: #61FF7B;
+    border-radius: 0px 30px 0px 30px;
+}
+
+/*  Bouton bleu (#1398A0) carré */
+
+.btn-bleu {
+    background-color: #1398A0;
+    color: white;
+    border-radius: 16px 16px 16px 16px;
+    border: 2px solid;
+    margin-right: 30px;
+}
+
+/* Bouton bleu arrondi */
+
+.btn-bleu-rond {
+    background-color: #1398A0;
+    color: white;
+    border: #1398A0;
+    border-radius: 50px 50px 50px 50px;
+}
+.bloc-btn-vert{
+    margin-left: 20px; 
+}
+.bloc-btn-blue{
+    margin-left: 20px;
+}
